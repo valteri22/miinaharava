@@ -1,4 +1,14 @@
-# Miinaharava
+ <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+Miinaharava
+===========
+
 Melkein jo legendaksi muodostunut Ohjelmoinnin alkeet -kurssin lopputyö.
+
+Asennus
+----------------
+Käyttää pygletiä.
+ `$ pip install pyglet`
+
 
 haravasto.py / spritet - Mika Oja, Oulun Ylipisto
