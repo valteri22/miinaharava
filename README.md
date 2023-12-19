@@ -3,12 +3,10 @@
 Miinaharava
 ===========
 
-Melkein jo legendaksi muodostunut Ohjelmoinnin alkeet -kurssin lopputyö.
-
 Asennus
 ----------------
 Käyttää pygletiä.
  `$ pip install pyglet`
 
 
-haravasto.py / spritet - Mika Oja, Oulun Ylipisto
+haravasto.py / spritet - Mika Oja, Oulun Yliopisto
